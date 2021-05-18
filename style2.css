@@ -127,6 +127,7 @@ body {
   background: gainsboro;
   margin-top: 2000px;
   position: absolute;
+  vertical-align: top;
 }
 .h img {
   border-radius: 10px;
@@ -134,6 +135,10 @@ body {
   position: absolute;
 }
 
-.h1 {
-  margin-top: 200px;
+.bred h1 {
+  margin-bottom: 20%;
+  vertical-align: top;
+}
+
+@media screen and (max-width: 600px) {
 }
