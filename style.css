@@ -1,0 +1,73 @@
+body {
+  background-color: rgb(19, 17, 15);
+  background-image: url(bilder/wp3333102.jpg);
+}
+
+.menu {
+  font-family: "Zen Dots", cursive;
+  text-align: center;
+  font-size: 20px;
+  color: blue;
+}
+.mydiv {
+  border: 10px;
+  text-align: center;
+  border-color: rgb(196, 74, 9);
+}
+img {
+  border: 10px;
+  border-color: lightslategray;
+  border-radius: 80px;
+}
+/*<div class="mydiv">
+      <img
+        src="bilder/cloudy-blue-sky-11.jpg"
+        alt="djungel"
+        width="800px"
+        height="200px"
+      />*/
+
+.menu2 {
+  padding: 20px;
+  width: 200px;
+  border-radius: 60px;
+  background-color: rgb(155, 207, 241);
+  margin-bottom: 300px;
+  text-align: center;
+  margin: auto;
+  /*font-family: "Dancing Script", cursive;*/
+  font-size: 20px;
+  font-family: "Zen Dots", cursive;
+  margin-top: 70px;
+}
+.menu2:hover {
+  color: rgb(251, 255, 0);
+  background-color: blue;
+}
+
+.bred {
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: rgb(251, 247, 255);
+  height: 300px;
+  width: 700px;
+  margin-top: 100px;
+  box-shadow: 10px 10px rgb(118, 121, 118);
+}
+.bred:hover {
+  background-color: rgb(192, 192, 192);
+  box-shadow: 10px 10px rgb(71, 70, 70);
+}
+h1 {
+  text-decoration: line-through;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(0, 128, 90);
+  font-family: "Architects Daughter", cursive;
+  font-family: "Zen Dots", cursive;
+}
+
+ul {
+  color: cornflowerblue;
+  display: block;
+}
