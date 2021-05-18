@@ -121,23 +121,10 @@ body {
 
 /*Slut på bild slidern */
 
-.bred {
-  padding: 400px;
-  box-shadow: gray 10px 10px;
-  background: gainsboro;
-  margin-top: 2000px;
-  position: absolute;
-  vertical-align: top;
-}
 .h img {
   border-radius: 10px;
   margin-left: 24px;
   position: absolute;
-}
-
-.bred h1 {
-  margin-bottom: 20%;
-  vertical-align: top;
 }
 
 @media screen and (max-width: 600px) {
