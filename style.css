@@ -49,14 +49,14 @@ body {
   height: 200px;
   width: 700px;
   margin-top: 100px;
-  box-shadow: 10px 10px 10px rgb(118, 121, 118);
+  box-shadow: 10px 10px 10px rgb(48, 48, 48);
   border: 5px solid black;
 }
 .bred:hover {
   background-color: rgb(247, 242, 242);
-  box-shadow: 10px 10px 10px rgb(71, 70, 70);
+  box-shadow: 10px 10px 10px rgb(43, 43, 43);
 }
-h1 {
+.bred h1 {
   text-decoration: line-through;
   text-align: center;
   font-size: 30px;
@@ -74,4 +74,21 @@ ul {
   font-family: "Kalam", cursive;
   margin-left: 250px;
   font-size: 30px;
+}
+
+.hej {
+}
+.hej h1 {
+  font-family: "Zen Dots", cursive;
+  font-size: 20px;
+  margin-top: 100px;
+  display: flex;
+}
+.hej img {
+  height: 211px;
+  width: 270px;
+  margin-block-start: 110px;
+  margin-left: 798px;
+  border: 6px solid black;
+  box-shadow: 10px 10px 10px rgb(46, 46, 46);
 }

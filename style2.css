@@ -131,5 +131,49 @@ body {
   position: absolute;
 }
 
+.om {
+  display: inline-block;
+  position: absolute;
+  margin-top: 1000px;
+}
+.om p {
+  color: #40d3dc;
+}
+
+.hobbys {
+  position: absolute;
+  margin-top: 1700px;
+  color: mediumorchid;
+  margin-right: 500px;
+}
+.hobbys h1 {
+  font-size: 30px;
+  color: mediumorchid;
+}
+.hobbys p {
+  color: mediumorchid;
+}
+
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+/* Clearfix (clear floats)*/
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  position: absolute;
+  margin-top: 1000px;
+}
+.row {
+  margin-top: 1650px;
+  position: absolute;
+  margin-left: 700px;
+}
 @media screen and (max-width: 600px) {
 }
