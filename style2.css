@@ -137,10 +137,12 @@ body {
   margin-top: 1000px;
 }
 .om p {
+  font-family: "Mate SC", serif;
   color: #40d3dc;
 }
 
 .hobbys {
+  font-family: "Mate SC", serif;
   position: absolute;
   margin-top: 1700px;
   color: mediumorchid;
@@ -149,9 +151,11 @@ body {
 .hobbys h1 {
   font-size: 30px;
   color: mediumorchid;
+  font-family: "Mate SC", serif;
 }
 .hobbys p {
   color: mediumorchid;
+  font-family: "Mate SC", serif;
 }
 
 * {
@@ -176,4 +180,24 @@ body {
   margin-left: 700px;
 }
 @media screen and (max-width: 600px) {
+}
+
+.familj h1 {
+  font-size: 30px;
+  color: coral;
+  margin-right: 50px;
+  font-family: "Mate SC", serif;
+}
+.familj {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-top: 2500px;
+  position: absolute;
+}
+
+.slut {
+  font-family: "Mate SC", serif;
+  color: rosybrown;
+  margin-top: 3000px;
 }
